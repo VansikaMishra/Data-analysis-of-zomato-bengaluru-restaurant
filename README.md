@@ -68,9 +68,3 @@ The analysis reveals that customer preferences, cuisine types, and delivery opti
 - Apply clustering or classification techniques for restaurant segmentation
 - Build a predictive model for rating estimation
 - Include geographic visualizations using latitude and longitude data (if available)
-
----
-
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out at [your-email@example.com].
